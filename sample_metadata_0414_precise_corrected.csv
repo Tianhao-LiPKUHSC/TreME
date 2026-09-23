@@ -1,0 +1,1604 @@
+Sample_new,sample,Timepoint_Standardized,Response_RECIST,Response_Standardized,Cancer_Type,Treatment_Detailed,Treatment_Class,DataSet,Response_from_adata,Response_Unified
+P002_Pre,P002,Pre,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P002_Post,P002,Post,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P004_Pre,P004,Pre,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P005_Pre,P005,Pre,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P005_Post,P005,Post,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P007_Pre,P007,Pre,PR,PR,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P010_Pre,P010,Pre,PR,PR,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P012_Pre,P012,Pre,PR,PR,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P012_Post,P012,Post,PR,PR,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P016_Pre,P016,Pre,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P017_Pre,P017,Pre,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P017_Post,P017,Post,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P019_Pre,P019,Pre,PR,PR,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P019_Post,P019,Post,PR,PR,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P003_Post,P003,Post,PD,PD,TNBC,paclitaxel,chemo,GSE266919,PD,PD
+P013_Pre,P013,Pre,PR,PR,TNBC,paclitaxel,chemo,GSE266919,PR,PR
+P013_Post,P013,Post,PR,PR,TNBC,paclitaxel,chemo,GSE266919,PR,PR
+P018_Pre,P018,Pre,SD,SD,TNBC,paclitaxel,chemo,GSE266919,SD,SD
+P018_Post,P018,Post,SD,SD,TNBC,paclitaxel,chemo,GSE266919,SD,SD
+P020_Pre,P020,Pre,PR,PR,TNBC,paclitaxel,chemo,GSE266919,PR,PR
+P020_Post,P020,Post,PR,PR,TNBC,paclitaxel,chemo,GSE266919,PR,PR
+P022_Pre,P022,Pre,PR,PR,TNBC,paclitaxel,chemo,GSE266919,PR,PR
+P022_Post,P022,Post,PR,PR,TNBC,paclitaxel,chemo,GSE266919,PR,PR
+P023_Pre,P023,Pre,SD,SD,TNBC,paclitaxel,chemo,GSE266919,SD,SD
+P023_Post,P023,Post,SD,SD,TNBC,paclitaxel,chemo,GSE266919,SD,SD
+P025_Pre,P025,Pre,SD,SD,TNBC,paclitaxel,chemo,GSE266919,SD,SD
+P025_Post,P025,Post,SD,SD,TNBC,paclitaxel,chemo,GSE266919,SD,SD
+P031_Pre,P031,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P032_Pre,P032,Pre,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P034_Pre,P034,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P034_Post,P034,Post,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P035_Pre,P035,Pre,PD,PD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PD,PD
+P037_Pre,P037,Pre,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P037_Post,P037,Post,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P038_Pre,P038,Pre,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P038_Post,P038,Post,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P039_Pre,P039,Pre,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P039_Post,P039,Post,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P040_Pre,P040,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P040_Post,P040,Post,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P041_Pre,P041,Pre,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P041_Post,P041,Post,PR,PR,TNBC,nab-paclitaxel,chemo,GSE266919,PR,PR
+P042_Pre,P042,Pre,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P042_Post,P042,Post,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P043_Pre,P043,Pre,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P044_Pre,P044,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P045_Pre,P045,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P045_Post,P045,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P046_Pre,P046,Pre,PD,PD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PD,PD
+P046_Post,P046,Post,PD,PD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PD,PD
+P047_Pre,P047,Pre,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P047_Post,P047,Post,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P049_Pre,P049,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P049_Post,P049,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P051_Pre,P051,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P051_Post,P051,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P052_Pre,P052,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P052_Post,P052,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P053_Pre,P053,Pre,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P053_Post,P053,Post,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P054_Pre,P054,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P054_Post,P054,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P055_Pre,P055,Pre,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P056_Pre,P056,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P056_Post,P056,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P057_Pre,P057,Pre,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P057_Post,P057,Post,SD,SD,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+P058_Pre,P058,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P058_Post,P058,Post,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P059_Pre,P059,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P059_Post,P059,Post,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P060_Pre,P060,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P060_Post,P060,Post,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P061_Pre,P061,Pre,SD,SD,TNBC,nab-paclitaxel,chemo,GSE266919,SD,SD
+P062_Pre,P062,Pre,PR,PR,TNBC,nab-paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,PR,PR
+P016_Post,P016,Post,SD,SD,TNBC,paclitaxel + atezolizumab,chemo + antiPD-L1,GSE266919,SD,SD
+Pt_8B_Post,Pt,Post,PR,PR,HCC,vaccine + pembrolizumab,vaccine + anti PD-1,GSE255830,,PR
+Pt_7_Post,Pt,Post,CR,CR,HCC,vaccine + pembrolizumab,vaccine + anti PD-1,GSE255830,,CR
+Pt_8A_Post,Pt,Post,PR,PR,HCC,vaccine + pembrolizumab,vaccine + anti PD-1,GSE255830,,PR
+Pt_6_Post,Pt,Post,SD,SD,HCC,vaccine + pembrolizumab,vaccine + anti PD-1,GSE255830,,SD
+P27_Pre,P27,Pre,PR,PR,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PR,PR
+P18_Pre,P18,Pre,CR,CR,HCC,Pembrolizumab + lenvatinib,anti PD-1 + TKIs,GSE235863,CR,CR
+P11_Pre,P11,Pre,PR,PR,HCC,Toripalimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PR,PR
+P11_Post,P11,Post,PR,PR,HCC,Toripalimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PR,PR
+P5_Pre,P5,Pre,PR,PR,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PR,PR
+P18_Post,P18,Post,CR,CR,HCC,Pembrolizumab + lenvatinib,anti PD-1 + TKIs,GSE235863,CR,CR
+P5_Post,P5,Post,PR,PR,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PR,PR
+P1_Pre,P1,Pre,SD,SD,HCC,Pembrolizumab + lenvatinib,anti PD-1 + TKIs,GSE235863,SD,SD
+P52_Post,P52,Post,NR/SD,SD,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,NR/SD,NR/SD
+P51_Post,P51,Post,NR/SD,SD,HCC,Pembrolizumab + lenvatinib,anti PD-1 + TKIs,GSE235863,NR/SD,NR/SD
+P1_Post,P1,Post,SD,SD,HCC,Pembrolizumab + lenvatinib,anti PD-1 + TKIs,GSE235863,SD,SD
+P26_Post,P26,Post,PD,PD,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PD,PD
+P26_Pre,P26,Pre,PD,PD,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PD,PD
+P27_Post,P27,Post,PR,PR,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PR,PR
+P15_Pre,P15,Pre,PD,PD,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PD,PD
+P15_Post,P15,Post,PD,PD,HCC,Sintilimab + lenvatinib,anti PD-1 + TKIs,GSE235863,PD,PD
+P01_Pre,P01,Pre,SD,SD,NSCLC,Toripalimab + Carboplatin+Docetaxel,antiPD-1+chemo,GSE207422,SD,SD
+P02_Post,P02,Post,PR,PR,NSCLC,Toripalimab + Carboplatin+Pemetrexed,antiPD-1+chemo,GSE207422,PR,PR
+P03_Post,P03,Post,PR,PR,NSCLC,Toripalimab + Carboplatin+Gemcitabine,antiPD-1+chemo,GSE207422,PR,PR
+P04_Post,P04,Post,PR,PR,NSCLC,Toripalimab + Carboplatin+Pemetrexed,antiPD-1+chemo,GSE207422,PR,PR
+P06_Post,P06,Post,PR,PR,NSCLC,Toripalimab + Carboplatin+Pemetrexed,antiPD-1+chemo,GSE207422,PR,PR
+P07_Post,P07,Post,SD,SD,NSCLC,Toripalimab + Carboplatin+Gemcitabine,antiPD-1+chemo,GSE207422,SD,SD
+P05_Pre,P05,Pre,PR,PR,NSCLC,Toripalimab + Carboplatin+Pemetrexed,antiPD-1+chemo,GSE207422,PR,PR
+P08_Pre,P08,Pre,SD,SD,NSCLC,Camrelizumab + Carboplatin+Pemetrexed,antiPD-1+chemo,GSE207422,SD,SD
+P09_Post,P09,Post,PR,PR,NSCLC,Sintilimab + Carboplatin+Gemcitabine,antiPD-1+chemo,GSE207422,PR,PR
+P10_Post,P10,Post,PR,PR,NSCLC,Sintilimab + Carboplatin+Gemcitabine,antiPD-1+chemo,GSE207422,PR,PR
+P12_Post,P12,Post,SD,SD,NSCLC,Sintilimab + Carboplatin+Pemetrexed,antiPD-1+chemo,GSE207422,SD,SD
+P13_Post,P13,Post,PR,PR,NSCLC,Sintilimab + Carboplatin+Gemcitabine,antiPD-1+chemo,GSE207422,PR,PR
+P14_Post,P14,Post,PR,PR,NSCLC,Sintilimab + Carboplatin+Gemcitabine,antiPD-1+chemo,GSE207422,PR,PR
+17-2796_Post,17-2796,Post,PD,PD,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PD,PD
+15-1471_Post,15-1471,Post,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+14-835_Post,14-835,Post,PR,PR,Melanoma,,anti CTLA-4,GSE272993,PR,PR
+14-839_Post,14-839,Post,CR,CR,Melanoma,,anti PD-1,GSE272993,CR,CR
+14-1189_aCTLA-4_Post,14-1189,Post,PR,PR,Melanoma,,anti CTLA-4,GSE272993,,PR
+14-1128_Post,14-1128,Post,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+18-3253_Post,18-3253,Post,PR,PR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PR,PR
+12-153_Pre,12-153,Pre,PD,PD,Melanoma,,anti CTLA-4,GSE272993,PD,PD
+12-153_Post,12-153,Post,PD,PD,Melanoma,,anti CTLA-4,GSE272993,PD,PD
+13-687_Post,13-687,Post,SD,SD,Melanoma,,anti PD-1,GSE272993,SD,SD
+14-1189_aPD1_Post,14-1189,Post,PD,PD,Melanoma,,anti PD-1,GSE272993,,PD
+13-588_Post,13-588,Post,PR,PR,Melanoma,,anti PD-1,GSE272993,PR,PR
+17-2796_Pre,17-2796,Pre,PD,PD,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PD,PD
+15-1471_Pre,15-1471,Pre,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+14-835_Pre,14-835,Pre,PR,PR,Melanoma,,anti CTLA-4,GSE272993,PR,PR
+14-839_Pre,14-839,Pre,CR,CR,Melanoma,,anti PD-1,GSE272993,CR,CR
+14-1189_aCTLA-4_Pre,14-1189,Pre,PR,PR,Melanoma,,anti CTLA-4,GSE272993,,PR
+14-1128_Pre,14-1128,Pre,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+18-3253_Pre,18-3253,Pre,PR,PR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PR,PR
+608_Pre,608,Pre,PR,PR,Melanoma,,anti CTLA-4,GSE272993,PR,PR
+14-998_Pre,14-998,Pre,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+14-1189_aPD1_Pre,14-1189,Pre,PD,PD,Melanoma,,anti PD-1,GSE272993,,PD
+17-2864_Pre,17-2864,Pre,PR,PR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PR,PR
+14-1063_Pre,14-1063,Pre,PD,PD,Melanoma,,anti CTLA-4,GSE272993,PD,PD
+14-998_Post,14-998,Post,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+17-2864_Post,17-2864,Post,PR,PR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PR,PR
+14-1063_Post,14-1063,Post,PD,PD,Melanoma,,anti CTLA-4,GSE272993,PD,PD
+608_Post,608,Post,PR,PR,Melanoma,,anti CTLA-4,GSE272993,PR,PR
+13-687_Pre,13-687,Pre,SD,SD,Melanoma,,anti PD-1,GSE272993,SD,SD
+13-588_Pre,13-588,Pre,PR,PR,Melanoma,,anti PD-1,GSE272993,PR,PR
+13-660_Post,13-660,Post,PR,PR,Melanoma,,anti PD-1,GSE272993,PR,PR
+13-660_Pre,13-660,Pre,PR,PR,Melanoma,,anti PD-1,GSE272993,PR,PR
+13-348_Post,13-348,Post,SD,SD,Melanoma,,anti PD-1,GSE272993,SD,SD
+13-348_Pre,13-348,Pre,SD,SD,Melanoma,,anti PD-1,GSE272993,SD,SD
+14-1138_Pre,14-1138,Pre,CR,CR,Melanoma,,anti PD-1,GSE272993,CR,CR
+12-211_Post,12-211,Post,CR,CR,Melanoma,,anti PD-1,GSE272993,CR,CR
+14-1138_Post,14-1138,Post,CR,CR,Melanoma,,anti PD-1,GSE272993,CR,CR
+17-2631_Post,17-2631,Post,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+17-2631_Pre,17-2631,Pre,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+17-3041_Post,17-3041,Post,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+17-3041_Pre,17-3041,Pre,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+17-2865_Pre,17-2865,Pre,unknown,EXCLUDE,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,unknown,unknown
+17-2865_Post,17-2865,Post,unknown,EXCLUDE,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,unknown,unknown
+14-1319_Post,14-1319,Post,CR,CR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,CR,CR
+13-447_Pre,13-447,Pre,CR,CR,Melanoma,,anti CTLA-4,GSE272993,CR,CR
+13-447_Post,13-447,Post,CR,CR,Melanoma,,anti CTLA-4,GSE272993,CR,CR
+18-3313_Pre,18-3313,Pre,PR,PR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PR,PR
+18-3313_Post,18-3313,Post,PR,PR,Melanoma,,anti PD-1 + anti CTLA-4,GSE272993,PR,PR
+12-267_Pre,12-267,Pre,PD,PD,Melanoma,,anti CTLA-4,GSE272993,PD,PD
+12-267_Post,12-267,Post,PD,PD,Melanoma,,anti CTLA-4,GSE272993,PD,PD
+13-349_Post,13-349,Post,unknown,EXCLUDE,Melanoma,,anti CTLA-4,GSE272993,unknown,unknown
+13-349_Pre,13-349,Pre,unknown,EXCLUDE,Melanoma,,anti CTLA-4,GSE272993,unknown,unknown
+14-745_Post,14-745,Post,unknown,EXCLUDE,Melanoma,,anti CTLA-4,GSE272993,unknown,unknown
+14-745_Pre,14-745,Pre,unknown,EXCLUDE,Melanoma,,anti CTLA-4,GSE272993,unknown,unknown
+13-508_Post,13-508,Post,CR,CR,Melanoma,,anti CTLA-4,GSE272993,CR,CR
+14-970_Post,14-970,Post,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+14-970_Pre,14-970,Pre,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+13-344_Post,13-344,Post,CR,CR,Melanoma,,anti CTLA-4,GSE272993,CR,CR
+13-344_Pre,13-344,Pre,CR,CR,Melanoma,,anti CTLA-4,GSE272993,CR,CR
+13-471_Post,13-471,Post,PD,PD,Melanoma,,anti PD-1,GSE272993,PD,PD
+16-2006_Pre,16-2006,Pre,CR,CR,Melanoma,,anti PD-1 (naive),GSE272993,CR,CR
+16-2006_Post,16-2006,Post,CR,CR,Melanoma,,anti PD-1 (naive),GSE272993,CR,CR
+17-3017_Pre,17-3017,Pre,PR,PR,Melanoma,,anti PD-1 (naive),GSE272993,PR,PR
+17-3017_Post,17-3017,Post,PR,PR,Melanoma,,anti PD-1 (naive),GSE272993,PR,PR
+18-3282_Pre,18-3282,Pre,CR,CR,Melanoma,,anti PD-1 (naive),GSE272993,CR,CR
+18-3282_Post,18-3282,Post,CR,CR,Melanoma,,anti PD-1 (naive),GSE272993,CR,CR
+13-689_Pre,13-689,Pre,PD,PD,Melanoma,,anti PD-1 (naive),GSE272993,PD,PD
+13-689_Post,13-689,Post,PD,PD,Melanoma,,anti PD-1 (naive),GSE272993,PD,PD
+Mel78_Post,Mel78,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"WDVAX, ipilimumab + nivolumab",anti-PD-1+anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel79_Pre,Mel79,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel88_Post,Mel88,Post,Post-ICI (resistant),EXCLUDE,Melanoma,Tremelimumab + MEDI3617,anti-CTLA-4+experimental,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel53_Pre,Mel53,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel71_Pre,Mel71,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel81_Pre,Mel81,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel80_Pre,Mel80,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel89_Pre,Mel89,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel94_Post,Mel94,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"IFN, ipilimumab + nivolumab",anti-PD-1+anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel60_Post,Mel60,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"Trametinib, ipilimumab",anti-CTLA-4+chemo/targeted,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel82_Pre,Mel82,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel84_Pre,Mel84,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel75_Post,Mel75,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"Ipilimumab + nivolumab, WDVAX",anti-PD-1+anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel74_Post,Mel74,Post,Post-ICI (resistant),EXCLUDE,Melanoma,Nivolumab,anti-PD-1,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel58_Post,Mel58,Post,Post-ICI (resistant),EXCLUDE,Melanoma,Ipilimumab,anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel72_Post,Mel72,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"IL-2, nivolumab, ipilimumab + anti-KIR-Ab",anti-PD-1+anti-CTLA-4+cytokine,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel194_Post,Mel194,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"Nivolumab + lirilumab (anti-kit), Nivolumab, Ipilimumab, Pan-RAF-inhibitor, Pembrolizumab",anti-PD-1+chemo/targeted,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel102_Post,Mel102,Post,Post-ICI (resistant),EXCLUDE,Melanoma,S/p nivolumab + ipilimumab,anti-PD-1+anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel112_Pre,Mel112,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel98_Post,Mel98,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"S/p IFN, s/p ipilimumab+GMCSF",anti-CTLA-4+cytokine,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel110_Post,Mel110,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"ipilimumab + angiopoietin 2 inhibitor, Temezlolamide, Pembrolizumab",anti-PD-1+chemo/targeted,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel103_Pre,Mel103,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel105_Pre,Mel105,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel106_Post,Mel106,Post,Post-ICI (resistant),EXCLUDE,Melanoma,Prior treatment: nivolumab + ipilimumab,anti-PD-1+anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel116_Pre,Mel116,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel478_Pre,Mel478,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+Mel126_Post,Mel126,Post,Post-ICI (resistant),EXCLUDE,Melanoma,"Ipilimumab, nivolumab",anti-PD-1+anti-CTLA-4,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel129pa_Pre,Mel129pa,Pre,,EXCLUDE,Melanoma,,,GSE115978,,EXCLUDE
+Mel129pb_Pre,Mel129pb,Pre,,EXCLUDE,Melanoma,,,GSE115978,,EXCLUDE
+Mel04.3_Post,Mel04.3,Post,OR,EXCLUDE,Melanoma,Ipilimumab,anti-CTLA-4,GSE115978,OR,OR
+Mel121.1_Post,Mel121.1,Post,Post-ICI (resistant),EXCLUDE,Melanoma,S/p Pembrolizumab,anti-PD-1,GSE115978,Post-ICI (resistant),Post-ICI (resistant)
+Mel128_Pre,Mel128,Pre,Untreated,EXCLUDE,Melanoma,,,GSE115978,Untreated,Untreated
+P014_Pre,P014,Pre,SD,SD,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,SD,SD
+P028_Pre,P028,Pre,unknown,EXCLUDE,TNBC,Paclitaxel,Chemo,GSE169246,unknown,unknown
+P001_Pre,P001,Pre,SD,SD,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,SD,SD
+P024_Pre,P024,Pre,PD,PD,TNBC,Paclitaxel,Chemo,GSE169246,PD,PD
+P011_Pre,P011,Pre,PR,PR,TNBC,Paclitaxel,Chemo,GSE169246,PR,PR
+P008_Pre,P008,Pre,PR,PR,TNBC,Paclitaxel,Chemo,GSE169246,PR,PR
+P007_Post,P007,Post,PR,PR,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,PR,PR
+P014_Post,P014,Post,SD,SD,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,SD,SD
+P001_Post,P001,Post,SD,SD,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,SD,SD
+P024_Post,P024,Post,PD,PD,TNBC,Paclitaxel,Chemo,GSE169246,PD,PD
+P011_Post,P011,Post,PR,PR,TNBC,Paclitaxel,Chemo,GSE169246,PR,PR
+P010_Post,P010,Post,PR,PR,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,PR,PR
+P008_Post,P008,Post,PR,PR,TNBC,Paclitaxel,Chemo,GSE169246,PR,PR
+P004_Post,P004,Post,SD,SD,TNBC,Paclitaxel+Atezolizumab,Anti-PD-L1+ Chemo,GSE169246,SD,SD
+MO_MCC_011_Pre,MO,Pre,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+MO_MCC_057_Post,MO,Post,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_059_Pre,MO,Pre,CR,CR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,CR
+MO_MCC_061_Pre,MO,Pre,PD,PD,MCC,avelumab,anti PD-1,GSE235090,,PD
+MO_MCC_066_Pre,MO,Pre,PD,PD,MCC,avelumab,anti PD-1,GSE235090,,PD
+nan_EXCLUDE,,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_068_Pre,MO,Pre,CR,CR,MCC,pembrolizumab,anti PD-1,GSE235090,,CR
+MO_MCC_069_Pre,MO,Pre,,EXCLUDE,MCC,pembrolizumab,anti PD-1,GSE235090,,EXCLUDE
+MO_MCC_071_Pre,MO,Pre,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_072_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_073_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_074_Pre,MO,Pre,PD,PD,MCC,pembrolizumab,anti PD-1,GSE235090,,PD
+MO_MCC_075_Pre,MO,Pre,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+MO_MCC_076_Pre,MO,Pre,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_077_Pre,MO,Pre,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_078_Pre,MO,Pre,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_079_Post,MO,Post,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_079_Pre,MO,Pre,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_080_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_081_Pre,MO,Pre,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_082_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_084_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_085_Post,MO,Post,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+MO_MCC_085_Pre,MO,Pre,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+MO_MCC_086_Pre,MO,Pre,CR,CR,MCC,pembrolizumab,anti PD-1,GSE235090,,CR
+MO_MCC_088_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_089_Pre,MO,Pre,,EXCLUDE,MCC,pembrolizumab,anti PD-1,GSE235090,,EXCLUDE
+MO_MCC_092_Pre,MO,Pre,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+MO_MCC_093_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_094_Post,MO,Post,,EXCLUDE,MCC,cemiplimab,anti PD-1,GSE235090,,EXCLUDE
+MO_MCC_095_Pre,MO,Pre,CR,CR,MCC,pembrolizumab,anti PD-1,GSE235090,,CR
+MO_MCC_096_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_099_Post,MO,Post,PD,PD,MCC,pembrolizumab,anti PD-1,GSE235090,,PD
+MO_MCC_100_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_101_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_102_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_103_EXCLUDE,MO,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+MO_MCC_120_Post,MO,Post,PR,PR,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PR
+MO_MCC_121_Post,MO,Post,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+MO_MCC_122_Post,MO,Post,PD,PD,MCC,pembrolizumab,anti PD-1,GSE235090,,PD
+MO_MCC_124_Post,MO,Post,PD,PD,MCC,ipilimumab and nivolumab,anti PD-1 + anti CTLA4,GSE235090,,PD
+MO_MCC_138_Post,MO,Post,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+NU_MCC_005_Pre,NU,Pre,PR,PR,MCC,pembrolizumab,anti PD-1,GSE235090,,PR
+NU_MCC_021_Post,NU,Post,PR,PR,MCC,avelumab,anti PD-1,GSE235090,,PR
+NU_MCC_030_Pre,NU,Pre,CR,CR,MCC,pembrolizumab,anti PD-1,GSE235090,,CR
+NU_MCC_043_Pre,NU,Pre,SD,SD,MCC,pembrolizumab,anti PD-1,GSE235090,,SD
+NU_MCC_053_EXCLUDE,NU,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+NU_MCC_054_EXCLUDE,NU,EXCLUDE,,EXCLUDE,MCC,,,GSE235090,,EXCLUDE
+0_Post,0,Post,,EXCLUDE,MCC,pembrolizumab,anti-PD-1,GSE235091,CR,CR
+0_Pre,0,Pre,,EXCLUDE,MCC,pembrolizumab,anti-PD-1,GSE235091,CR,CR
+1_Pre,1,Pre,CR,CR,MCC,pembrolizumab,anti-PD-1,GSE235091,,CR
+1_Post,1,Post,,EXCLUDE,MCC,Avelumab,anti-PD-1,GSE235091,,EXCLUDE
+2_Post,2,Post,CR,CR,MCC,pembrolizumab,anti-PD-1,GSE235091,,CR
+2_Pre,2,Pre,PR,PR,MCC,"pembrolizumab, pembrolizumab",anti-PD-1,GSE235091,,PR
+3_Pre,3,Pre,PR,PR,MCC,ipilimumab/nivolumab,anti-PD-1+anti-CTLA-4,GSE235091,,PR
+3_Post,3,Post,PD,PD,MCC,"pembrolizumab, ipilimumab/nivolumab",anti-PD-1+anti-CTLA-4,GSE235091,,PD
+4_EXCLUDE,4,EXCLUDE,,EXCLUDE,MCC,,Unknown,GSE235091,,EXCLUDE
+4_Pre,4,Pre,,EXCLUDE,MCC,No ICB,No ICB,GSE235091,,EXCLUDE
+4_Post,4,Post,PR,PR,MCC,ipilimumab/nivolumab,anti-PD-1+anti-CTLA-4,GSE235091,,PR
+5_Post,5,Post,PR,PR,MCC,pembrolizumab,anti-PD-1,GSE235091,,PR
+5_Pre,5,Pre,PR,PR,MCC,pembrolizumab,anti-PD-1,GSE235091,,PR
+6_Pre,6,Pre,,EXCLUDE,MCC,No ICB,No ICB,GSE235091,PD,PD
+6_Post,6,Post,CR,CR,MCC,"pembrolizumab, pembrolizumab",anti-PD-1,GSE235091,PD,PD
+7_Post,7,Post,PR,PR,MCC,ipilimumab/nivolumab,anti-PD-1+anti-CTLA-4,GSE235091,PR,PR
+7_Pre,7,Pre,,EXCLUDE,MCC,No ICB,No ICB,GSE235091,PR,PR
+8_Post,8,Post,PR,PR,MCC,ipilimumab/nivolumab,anti-PD-1+anti-CTLA-4,GSE235091,PR,PR
+8_Pre,8,Pre,,EXCLUDE,MCC,No ICB,No ICB,GSE235091,PR,PR
+9_Pre,9,Pre,,EXCLUDE,MCC,ipilimumab/nivolumab,anti-PD-1+anti-CTLA-4,GSE235091,CR*,CR*
+PEM1_Pre,PEM1,Pre,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,PR,PR
+PEM1_Post,PEM1,Post,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,PR,PR
+PEM2_Pre,PEM2,Pre,PR,PR,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,PR,PR
+PEM2_Post,PEM2,Post,PR,PR,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,PR,PR
+PEM3_Pre,PEM3,Pre,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM3_Post,PEM3,Post,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM5_Pre,PEM5,Pre,PR,PR,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,PR,PR
+PEM5_Post,PEM5,Post,PR,PR,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,PR,PR
+PEM6_Pre,PEM6,Pre,CR,CR,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,CR,CR
+PEM6_Post,PEM6,Post,CR,CR,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,CR,CR
+PEM7_Pre,PEM7,Pre,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM7_Post,PEM7,Post,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM8_Pre,PEM8,Pre,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM8_Post,PEM8,Post,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM9_Pre,PEM9,Pre,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+PEM9_Post,PEM9,Post,SD,SD,Endometrial Cancer,pembrolizumab,anti PD-1,GSE212217,SD,SD
+su001_Pre,su001,Pre,PR,PR,BCC,pembrolizumab,anti PD-1,GSE123813,PR,PR
+su001_Post,su001,Post,PR,PR,BCC,pembrolizumab,anti PD-1,GSE123813,PR,PR
+su002_Pre,su002,Pre,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su002_Post,su002,Post,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su003_Pre,su003,Pre,CR,CR,BCC,pembrolizumab,anti PD-1,GSE123813,CR,CR
+su003_Post,su003,Post,CR,CR,BCC,pembrolizumab,anti PD-1,GSE123813,CR,CR
+su004_Pre,su004,Pre,SD,SD,BCC,cemiplimab,anti PD-1,GSE123813,SD,SD
+su004_Post,su004,Post,SD,SD,BCC,cemiplimab,anti PD-1,GSE123813,SD,SD
+su005_Pre,su005,Pre,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su005_Post,su005,Post,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su006_Pre,su006,Pre,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su006_Post,su006,Post,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su007_Pre,su007,Pre,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su007_Post,su007,Post,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su008_Pre,su008,Pre,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su008_Post,su008,Post,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su009_Pre,su009,Pre,PR,PR,BCC,cemiplimab,anti PD-1,GSE123813,PR,PR
+su009_Post,su009,Post,PR,PR,BCC,cemiplimab,anti PD-1,GSE123813,PR,PR
+su010_Pre,su010,Pre,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su010_Post,su010,Post,SD,SD,BCC,pembrolizumab,anti PD-1,GSE123813,SD,SD
+su012_Pre,su012,Pre,PR,PR,BCC,cemiplimab,anti PD-1,GSE123813,PR,PR
+su012_Post,su012,Post,PR,PR,BCC,cemiplimab,anti PD-1,GSE123813,PR,PR
+P266_Post,P266,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P4_Post,P4,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P9_Post,P9,Post,pCR,CR,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,pCR,pCR
+P377_Post,P377,Post,pCR,CR,NSCLC,Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P36_Post,P36,Post,pCR,CR,NSCLC,Pembrolizumab(C1) + Sintilimab(C2-C3) + Carboplatin(C1) + Pemetrexed(C1-C3),chemo,GSE243013,pCR,pCR
+P94_Post,P94,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P432_Post,P432,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P304_Post,P304,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P482_Post,P482,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Nedaplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P105_Post,P105,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P124_Post,P124,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P309_Post,P309,Post,pCR,CR,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P328_Post,P328,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P166_Post,P166,Post,pCR,CR,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P6_Post,P6,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P423_Post,P423,Post,pCR,CR,NSCLC,Camrelizumab + Cisplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,pCR,pCR
+P164_Post,P164,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Gemcitabine,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P282_Post,P282,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab(C2-C3) + Carboplatin + Pemetrexed + Bevacizumab(C2-C3) + Endostar(C2-C3),chemo+target,GSE243013,non-MPR,non-MPR
+P67_Post,P67,Post,pCR,CR,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P485_Post,P485,Post,pCR,CR,NSCLC,Tislelizumab + Nedaplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P130_Post,P130,Post,MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P390_Post,P390,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Nedaplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P365_Post,P365,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,pCR,pCR
+P258_Post,P258,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P59_Post,P59,Post,pCR,CR,NSCLC,Pembrolizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P47_Post,P47,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Paclitaxel,antiPD-1+chemo,GSE243013,pCR,pCR
+P226_Post,P226,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P587_Post,P587,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Nedaplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P3_Post,P3,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P470_Post,P470,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P2_Post,P2,Post,pCR,CR,NSCLC,Nivolumab/Placebo + Carboplatin + Paclitaxel,chemo,GSE243013,pCR,pCR
+P43_Post,P43,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Cisplatin(C1) + Carboplatin(C2) + Pemetrexed(C1-C2) + Bevacizumab,antiPD-1+chemo+target,GSE243013,non-MPR,non-MPR
+P62_Post,P62,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P33_Post,P33,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P121_Post,P121,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P201_Post,P201,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P459_Post,P459,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P97_Post,P97,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Docetaxel,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P321_Post,P321,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Gemcitabine,antiPD-1+chemo,GSE243013,pCR,pCR
+P218_Post,P218,Post,MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Gemcitabine,chemo,GSE243013,MPR,MPR
+P372_Post,P372,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Docetaxel,antiPD-1+chemo,GSE243013,pCR,pCR
+P20_Post,P20,Post,pCR,CR,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P433_Post,P433,Post,unknowm,EXCLUDE,NSCLC,Sintilimab + Nedaplatin + Gemcitabine,chemo,GSE243013,unknowm,unknowm
+P118_Post,P118,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P16_Post,P16,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab(C1) + Camrelizumab(C2) + Carboplatin + Paclitaxel Liposome,chemo,GSE243013,non-MPR,non-MPR
+P146_Post,P146,Post,pCR,CR,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,pCR,pCR
+P481_Post,P481,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P511_Post,P511,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P90_Post,P90,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Nedaplatin + Gemcitabine,chemo,GSE243013,non-MPR,non-MPR
+P509_Post,P509,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Cisplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P463_Post,P463,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P279_Post,P279,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P103_Post,P103,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Paclitaxel,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P200_Post,P200,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P34_Post,P34,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P322_Post,P322,Post,MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P520_Post,P520,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P523_Post,P523,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P418_Post,P418,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P93_Post,P93,Post,pCR,CR,NSCLC,Sintilimab + Carboplatin + Gemcitabine,chemo,GSE243013,pCR,pCR
+P158_Post,P158,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P412_Post,P412,Post,pCR,CR,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P189_Post,P189,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P199_Post,P199,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P488_Post,P488,Post,MPR,EXCLUDE,NSCLC,Cisplatin + Paclitaxel Liposome,chemo,GSE243013,MPR,MPR
+P185_Post,P185,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P23_Post,P23,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P106_Post,P106,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P368_Post,P368,Post,pCR,CR,NSCLC,Tislelizumab(C2-C3) + Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P280_Post,P280,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P337_Post,P337,Post,MPR,EXCLUDE,NSCLC,Sintilimab + Cisplatin + Abraxane,chemo,GSE243013,MPR,MPR
+P391_Post,P391,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab(C3-C4) + Carboplatin(C1-C2) + Cisplatin(C3-C4) + Abraxane(C1-C4),chemo,GSE243013,non-MPR,non-MPR
+P113_Post,P113,Post,pCR,CR,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P24_Post,P24,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Cisplatin + Paclitaxel,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P179_Post,P179,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P453_Post,P453,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P464_Post,P464,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Paclitaxel,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P190_Post,P190,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,pCR,pCR
+P174_Post,P174,Post,pCR,CR,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P579_Post,P579,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P457_Post,P457,Post,MPR,EXCLUDE,NSCLC,Yes + Yes,chemo,GSE243013,MPR,MPR
+P389_Post,P389,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,pCR,pCR
+P414_Post,P414,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P180_Post,P180,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Pemetrexed,antiPD-1+chemo,GSE243013,MPR,MPR
+P462_Post,P462,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Cisplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P235_Post,P235,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Paclitaxel,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P340_Post,P340,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Pemetrexed + Avastin,antiPD-1+chemo+target,GSE243013,non-MPR,non-MPR
+P420_Post,P420,Post,pCR,CR,NSCLC,Camrelizumab + Cisplatin + Gemcitabine,antiPD-1+chemo,GSE243013,pCR,pCR
+P367_Post,P367,Post,MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,MPR,MPR
+P270_Post,P270,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P53_Post,P53,Post,pCR,CR,NSCLC,Pembrolizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P486_Post,P486,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P264_Post,P264,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Cisplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,MPR,MPR
+P243_Post,P243,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P469_Post,P469,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P96_Post,P96,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P137_Post,P137,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Nedaplatin + Paclitaxel,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P66_Post,P66,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Cisplatin + Gemcitabine,chemo,GSE243013,non-MPR,non-MPR
+P510_Post,P510,Post,non-MPR,EXCLUDE,NSCLC,Toripalimab + Carboplatin + Paclitaxel,chemo,GSE243013,non-MPR,non-MPR
+P271_Post,P271,Post,non-MPR,EXCLUDE,NSCLC,Cisplatin + Paclitaxel,chemo,GSE243013,non-MPR,non-MPR
+P454_Post,P454,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Nedaplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P473_Post,P473,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Paclitaxel Liposome,chemo,GSE243013,non-MPR,non-MPR
+P209_Post,P209,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P204_Post,P204,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P172_Post,P172,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Cisplatin + Pemetrexed,antiPD-1+chemo,GSE243013,MPR,MPR
+P268_Post,P268,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P233_Post,P233,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P380_Post,P380,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P297_Post,P297,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab(C1) + Nedaplatin(C1) + Pemetrexed(C1),chemo,GSE243013,non-MPR,non-MPR
+P428_Post,P428,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P57_Post,P57,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P131_Post,P131,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,non-MPR,non-MPR
+P150_Post,P150,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Nedaplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P182_Post,P182,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,non-MPR,non-MPR
+P277_Post,P277,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P119_Post,P119,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P234_Post,P234,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P403_Post,P403,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab(C1) + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P395_Post,P395,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P483_Post,P483,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed Disodium,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P494_Post,P494,Post,pCR,CR,NSCLC,Sintilimab + Carboplatin(?) + Nedaplatin(?) + Abraxane,chemo,GSE243013,pCR,pCR
+P289_Post,P289,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P287_Post,P287,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab(C2-C4) + Lobaplatin + Abraxane + Endostar(C1-C4),chemo+target,GSE243013,non-MPR,non-MPR
+P402_Post,P402,Post,non-MPR,EXCLUDE,NSCLC,,chemo,GSE243013,non-MPR,non-MPR
+P205_Post,P205,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P285_Post,P285,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P259_Post,P259,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P74_Post,P74,Post,pCR,CR,NSCLC,Pembrolizumab + Lobaplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P472_Post,P472,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P68_Post,P68,Post,pCR,CR,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,pCR,pCR
+P323_Post,P323,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P111_Post,P111,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P404_Post,P404,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P127_Post,P127,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P347_Post,P347,Post,pCR,CR,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P445_Post,P445,Post,pCR,CR,NSCLC,Camrelizumab + Lobaplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P142_Post,P142,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P45_Post,P45,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P334_Post,P334,Post,pCR,CR,NSCLC,Pembrolizumab + Cisplatin + Paclitaxel Liposome,antiPD-1+chemo,GSE243013,pCR,pCR
+P298_Post,P298,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P168_Post,P168,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P477_Post,P477,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P574_Post,P574,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P156_Post,P156,Post,pCR,CR,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P114_Post,P114,Post,pCR,CR,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P44_Post,P44,Post,pCR,CR,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P502_Post,P502,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P63_Post,P63,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,non-MPR,non-MPR
+P592_Post,P592,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P387_Post,P387,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P71_Post,P71,Post,pCR,CR,NSCLC,Camrelizumab(C2) + Sintilimab(C3-C7) + Cisplatin(C1-C2) + Carboplatin(C7) + Pemetrexed(C1) + Paclitaxel Liposome(C2) + Abraxane(C3-C7) + Gemcitabine(C7) + Anlotinib(C3-C7),chemo+target,GSE243013,pCR,pCR
+P471_Post,P471,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P427_Post,P427,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P122_Post,P122,Post,MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Pemetrexed,chemo,GSE243013,MPR,MPR
+P73_Post,P73,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Paclitaxel Liposome,chemo,GSE243013,non-MPR,non-MPR
+P495_Post,P495,Post,non-MPR,EXCLUDE,NSCLC,Toripalimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P221_Post,P221,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P550_Post,P550,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,pCR,pCR
+P417_Post,P417,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Paclitaxel,antiPD-1+chemo,GSE243013,pCR,pCR
+P491_Post,P491,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P224_Post,P224,Post,MPR,EXCLUDE,NSCLC,Carboplatin + Abraxane,chemo,GSE243013,MPR,MPR
+P349_Post,P349,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P70_Post,P70,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P46_Post,P46,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P92_Post,P92,Post,pCR,CR,NSCLC,Tislelizumab(C2) + Carboplatin + Abraxane + Endostar(C1),chemo+target,GSE243013,pCR,pCR
+P32_Post,P32,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,non-MPR,non-MPR
+P192_Post,P192,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,MPR,MPR
+P288_Post,P288,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P325_Post,P325,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P595_Post,P595,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P312_Post,P312,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P206_Post,P206,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P382_Post,P382,Post,non-MPR,EXCLUDE,NSCLC,Carboplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P213_Post,P213,Post,MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,MPR,MPR
+P329_Post,P329,Post,pCR,CR,NSCLC,Tislelizumab(C2-C3) + Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P58_Post,P58,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P69_Post,P69,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P533_Post,P533,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + 见备注,antiPD-1+chemo,GSE243013,MPR,MPR
+P107_Post,P107,Post,pCR,CR,NSCLC,Camrelizumab + Nedaplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P31_Post,P31,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P22_Post,P22,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P525_Post,P525,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Paclitaxel,antiPD-1+chemo,GSE243013,pCR,pCR
+P291_Post,P291,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P257_Post,P257,Post,MPR,EXCLUDE,NSCLC,Sintilimab,Unknown,GSE243013,MPR,MPR
+P435_Post,P435,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Paclitaxel,chemo,GSE243013,non-MPR,non-MPR
+P405_Post,P405,Post,MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P184_Post,P184,Post,pCR,CR,NSCLC,Nivolumab(C1) + Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P102_Post,P102,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P125_Post,P125,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P35_Post,P35,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P528_Post,P528,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P278_Post,P278,Post,MPR,EXCLUDE,NSCLC,Camrelizumab(C2) + Lobaplatin(C1)+ Abraxane(C1-C2) + Cisplatin(C2),chemo,GSE243013,MPR,MPR
+P303_Post,P303,Post,MPR,EXCLUDE,NSCLC,Carboplatin + Gemcitabine,chemo,GSE243013,MPR,MPR
+P394_Post,P394,Post,pCR,CR,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,pCR,pCR
+P286_Post,P286,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P249_Post,P249,Post,pCR,CR,NSCLC,Sintilimab + Bevacizumab,target,GSE243013,pCR,pCR
+P29_Post,P29,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P346_Post,P346,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P273_Post,P273,Post,pCR,CR,NSCLC,Tislelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,pCR,pCR
+P290_Post,P290,Post,pCR,CR,NSCLC,Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P276_Post,P276,Post,non-MPR,EXCLUDE,NSCLC,Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P265_Post,P265,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P490_Post,P490,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab(C4-C5) + Carboplatin + Paclitaxel(C1-C3) + Abraxane(C4-C5),chemo,GSE243013,non-MPR,non-MPR
+P64_Post,P64,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P540_Post,P540,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P416_Post,P416,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P267_Post,P267,Post,pCR,CR,NSCLC,Camrelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P39_Post,P39,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Carboplatin(C1-C6) + Pemetrexed(C1-C6) + Bevacizumab,antiPD-1+chemo+target,GSE243013,non-MPR,non-MPR
+P567_Post,P567,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P227_Post,P227,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P115_Post,P115,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P407_Post,P407,Post,pCR,CR,NSCLC,Sintilimab + Carboplatin + Pemetrexed,chemo,GSE243013,pCR,pCR
+P399_Post,P399,Post,MPR,EXCLUDE,NSCLC,Sintilimab(C2-C3) + Cisplatin + Pemetrexed,chemo,GSE243013,MPR,MPR
+P292_Post,P292,Post,MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,MPR,MPR
+P84_Post,P84,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+P339_Post,P339,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P281_Post,P281,Post,non-MPR,EXCLUDE,NSCLC,Camrelizumab + Apatinib,antiPD-1+target,GSE243013,non-MPR,non-MPR
+P207_Post,P207,Post,MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,MPR,MPR
+P296_Post,P296,Post,pCR,CR,NSCLC,Tislelizumab + Nedaplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P527_Post,P527,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P223_Post,P223,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P247_Post,P247,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P261_Post,P261,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Carboplatin + Paclitaxel,chemo,GSE243013,non-MPR,non-MPR
+P524_Post,P524,Post,non-MPR,EXCLUDE,NSCLC,Sintilimab + Bevacizumab,target,GSE243013,non-MPR,non-MPR
+P355_Post,P355,Post,non-MPR,EXCLUDE,NSCLC,Carboplatin + Pemetrexed,chemo,GSE243013,non-MPR,non-MPR
+P371_Post,P371,Post,non-MPR,EXCLUDE,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P49_Post,P49,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P293_Post,P293,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P467_Post,P467,Post,non-MPR,EXCLUDE,NSCLC,Tislelizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P120_Post,P120,Post,non-MPR,EXCLUDE,NSCLC,Toripalimab + Carboplatin + Abraxane,chemo,GSE243013,non-MPR,non-MPR
+P498_Post,P498,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P160_Post,P160,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Pemetrexed,antiPD-1+chemo,GSE243013,MPR,MPR
+P248_Post,P248,Post,pCR,CR,NSCLC,Pembrolizumab + Nedaplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P496_Post,P496,Post,non-MPR,EXCLUDE,NSCLC,Pembrolizumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,non-MPR,non-MPR
+P181_Post,P181,Post,pCR,CR,NSCLC,Sintilimab + Carboplatin + Abraxane,chemo,GSE243013,pCR,pCR
+P161_Post,P161,Post,pCR,CR,NSCLC,Nivolumab + Carboplatin + Abraxane,antiPD-1+chemo,GSE243013,pCR,pCR
+P159_Post,P159,Post,MPR,EXCLUDE,NSCLC,Pembrolizumab + Cisplatin + Abraxane,antiPD-1+chemo,GSE243013,MPR,MPR
+GSE195832_Pt1_Pre_Pre,GSE195832,Pre,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt1_Post_Post,GSE195832,Post,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt2_Pre_Pre,GSE195832,Pre,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt2_Post_Post,GSE195832,Post,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt3_Pre_Pre,GSE195832,Pre,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt3_Post_Post,GSE195832,Post,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt4_Pre_Pre,GSE195832,Pre,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE195832_Pt4_Post_Post,GSE195832,Post,,EXCLUDE,HNSCC,nivolumab,anti-PD1,GSE195832,,EXCLUDE
+GSE215403_OSCC(P1)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB1(P2)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB2(P3)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB5(P4)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB7(P5)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB8(P6)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB9(P7)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE215403_scB10(P8)_EXCLUDE,GSE215403,EXCLUDE,,EXCLUDE,HNSCC,,untreated,GSE215403,,EXCLUDE
+GSE222300_P02-T_Pre,GSE222300,Pre,CR,CR,CRC,pembrolizumab,anti-PD1,GSE222300,,CR
+GSE222300_P02-N_Pre,GSE222300,Pre,CR,CR,CRC,pembrolizumab,anti-PD1,GSE222300,,CR
+GSE222300_P01-T_Pre,GSE222300,Pre,PD,PD,CRC,pembrolizumab,anti-PD1,GSE222300,,PD
+GSE213047_HN19_1_Post,GSE213047,Post,PR,PR,HNSCC,nivolumab,anti-PD1,GSE213047,,PR
+GSE213047_HN19_2_Post,GSE213047,Post,PR,PR,HNSCC,nivolumab,anti-PD1,GSE213047,,PR
+GSE213047_HN19_3_Post,GSE213047,Post,PD,PD,HNSCC,nivolumab,anti-PD1,GSE213047,,PD
+GSE205506_ColonMGI111_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI112_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI121_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_ColonMGI122_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_ColonMGI141_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI151_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI152_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_Colon171v3_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_Colon172v3_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_Colon181v2_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_Colon182v2_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_ColonMGI191_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI192_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI211_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI213_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI233_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI241_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI243_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI251_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI252_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI253_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI261_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,non-pCR
+GSE205506_ColonMGI271_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI272_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI273_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI281_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI282_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI283_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI291_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI292_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI301_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI302_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI303_Post,GSE205506,Post,pCR,CR,CRC,toripalimab,anti-PD1,GSE205506,,CR
+GSE205506_ColonMGI311_Pre,GSE205506,Pre,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_ColonMGI312_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_ColonMGI313_Post,GSE205506,Post,non-pCR,EXCLUDE,CRC,toripalimab,anti-PD1,GSE205506,,non-pCR
+GSE205506_ColonMGI321_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI322_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI323_Post,GSE205506,Post,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE205506_ColonMGI333_Pre,GSE205506,Pre,pCR,CR,CRC,toripalimab+celecoxib,anti-PD1+chemo,GSE205506,,CR
+GSE179994_P1.post.2_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,R
+GSE179994_P13.post.2_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P36.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUSC,Pembrolizumab+Carboplatin+Albumin-boundpaclitaxel,anti-PD1+chemo,GSE179994,,NR
+GSE179994_P37.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUSC,Pembrolizumab+Carboplatin+Albumin-boundpaclitaxel,anti-PD1+chemo,GSE179994,,NR
+GSE179994_P38.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUSC,Pembrolizumab+Carboplatin+Albumin-boundpaclitaxel,anti-PD1+chemo,GSE179994,,NR
+GSE179994_P1.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,R
+GSE179994_P1.post.3_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,NR
+GSE179994_P10.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,,,,GSE179994,,R
+GSE179994_P13.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,NR
+GSE179994_P19.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,R
+GSE179994_P29.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,R
+GSE179994_P30.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,,,,GSE179994,,R
+GSE179994_P33.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,R
+GSE179994_P35.post.1_EXCLUDE,GSE179994,Post,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,R
+GSE179994_P1.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P2.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P3.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P4.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P5.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P6.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P7.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P8.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P9.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P10.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,,,,GSE179994,,EXCLUDE
+GSE179994_P11.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P12.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P13.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P14.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P15.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P16.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P17.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P18.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P19.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P20.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,,,,GSE179994,,EXCLUDE
+GSE179994_P21.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P22.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P23.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P24.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P25.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P26.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P27.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P28.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P29.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P30.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,,,,GSE179994,,EXCLUDE
+GSE179994_P33.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE179994_P34.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUSC,Treatment-naïve,untreated,GSE179994,,EXCLUDE
+GSE179994_P35.pre_EXCLUDE,GSE179994,Pre,,EXCLUDE,LUAD,Pembrolizumab+Carboplatin+Pemetrexed,,GSE179994,,EXCLUDE
+GSE226438_T96_Post,GSE226438,Post,,EXCLUDE,MCC,pembrolizumab,anti-PD1,GSE226438,,EXCLUDE
+GSE226438_T98A_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T98B_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T99_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T100_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T101_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T102_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T104_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T111_Post,GSE226438,Post,,EXCLUDE,MCC,pembrolizumab,anti-PD1,GSE226438,,EXCLUDE
+GSE226438_T112A_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+GSE226438_T112B_EXCLUDE,GSE226438,EXCLUDE,,EXCLUDE,MCC,,,GSE226438,,EXCLUDE
+K409_Blood_Pre,K409,Pre,,EXCLUDE,SKCM,,untreated,GSE159251,,EXCLUDE
+K411_Blood_Pre,K411,Pre,PR,PR,SKCM,,pIL12+anti-PD1,GSE159251,,PR
+K468_Blood_Pre,K468,Pre,PR,PR,SKCM,,anti-PD1+anti-CTLA4,GSE159251,,PR
+K484_Blood_Pre,K484,Pre,PD,PD,SKCM,,anti-PD1,GSE159251,,PD
+K411_Tumor_Pre,K411,Pre,PR,PR,SKCM,,pIL12+anti-PD1,GSE159251,,PR
+K468_Tumor_Pre,K468,Pre,PR,PR,SKCM,,anti-PD1+anti-CTLA4,GSE159251,,PR
+K484_Tumor_Pre,K484,Pre,PD,PD,SKCM,,anti-PD1,GSE159251,,PD
+K409_LN_Pre,K409,Pre,,EXCLUDE,SKCM,,untreated,GSE159251,,EXCLUDE
+K409_Tumor_Pre,K409,Pre,,EXCLUDE,SKCM,,untreated,GSE159251,,EXCLUDE
+K411_Blood_Longitudinal_Post,K411,Post,PR,PR,SKCM,,pIL12+anti-PD1,GSE159251,,PR
+K468_Blood_Longitudinal_EXCLUDE,K468,EXCLUDE,PR,PR,SKCM,,anti-PD1+anti-CTLA4,GSE159251,,PR
+GSE206325_1094_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1526_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1061_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1149_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1630_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1516_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1631_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1086_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1610_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1624_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1010_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1361_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_811_Post,GSE206325,Post,NR,NR,HCC,nivolumab,anti-PD1,GSE206325,,NR
+GSE206325_1208_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1185_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1203_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1360_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1198_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_990_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1601_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1707_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1160_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_345_Post,GSE206325,Post,NR,NR,HCC,nivolumab,anti-PD1,GSE206325,,NR
+GSE206325_1349_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1723_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1137_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1225_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1220_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1578_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_791_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1174_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1613_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1054_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1491_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_824_Post,GSE206325,Post,R,R,HCC,nivolumab,anti-PD1,GSE206325,,R
+GSE206325_1085_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1625_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1081_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1212_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1545_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1013_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1322_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1381_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1377_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1021_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1199_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1622_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_998_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1001_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1066_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1585_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1017_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1373_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1536_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1581_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1194_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_346_Post,GSE206325,Post,NR,NR,HCC,nivolumab,anti-PD1,GSE206325,,NR
+GSE206325_1089_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1594_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1018_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1348_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1621_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1483_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1573_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_825_Post,GSE206325,Post,R,R,HCC,nivolumab,anti-PD1,GSE206325,,R
+GSE206325_837_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1190_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1549_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1521_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1582_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1317_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1148_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1101_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1586_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1062_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_810_Post,GSE206325,Post,NR,NR,HCC,nivolumab,anti-PD1,GSE206325,,NR
+GSE206325_1025_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_741_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1589_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1542_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1501_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_507_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1141_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_994_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1566_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1102_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1570_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1168_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_986_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1188_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1069_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1598_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_740_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1058_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1569_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1178_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1531_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1496_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1517_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1353_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1627_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1617_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1340_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1057_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1129_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1049_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1216_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_821_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1229_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1183_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1074_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1014_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1228_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1165_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1593_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1195_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1328_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1093_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1538_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_836_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1313_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1590_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_790_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1133_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1562_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1145_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_508_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1009_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1037_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_786_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1002_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_506_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_822_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1574_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1163_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1312_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1522_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1200_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1365_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1512_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1628_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1169_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1550_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_839_Post,GSE206325,Post,NR,NR,HCC,nivolumab,anti-PD1,GSE206325,,NR
+GSE206325_1022_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_840_Post,GSE206325,Post,NR,NR,HCC,nivolumab,anti-PD1,GSE206325,,NR
+GSE206325_1070_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1609_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1090_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1352_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1164_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1553_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1344_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1150_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1605_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1492_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1357_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_509_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1124_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1128_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1597_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1209_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_856_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1125_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1364_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1614_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1718_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1159_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_853_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1073_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1711_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1565_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1097_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1029_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1719_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1077_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1368_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1554_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1038_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1369_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1155_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1558_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1331_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1345_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1337_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1506_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1180_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1173_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1557_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1065_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1511_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1577_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1026_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1326_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1336_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1318_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_785_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1221_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1005_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1006_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_989_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1153_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1372_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1184_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1033_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1528_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_855_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1050_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1376_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1045_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1213_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1606_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1333_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1030_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1082_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1205_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_997_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1715_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1046_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1618_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_985_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1175_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1532_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1316_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1561_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1546_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1341_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_852_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_1527_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1136_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1098_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1541_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1306_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1053_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1042_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1332_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1523_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1144_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_993_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1140_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1327_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1041_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1158_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1727_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1078_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1132_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1170_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1193_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1224_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1311_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1513_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1034_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1498_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1380_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1189_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1217_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1179_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1537_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1710_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1323_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1204_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1486_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1481_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1154_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1602_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1502_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1356_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1308_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1487_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1722_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1307_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1508_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1503_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1497_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1321_Post,GSE206325,Post,R,R,HCC,cemiplimab,anti-PD1,GSE206325,,R
+GSE206325_1507_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1493_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1518_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1482_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1533_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1706_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1714_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1726_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_1488_Post,GSE206325,Post,NR,NR,HCC,cemiplimab,anti-PD1,GSE206325,,NR
+GSE206325_787_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_788_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_792_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE206325_793_Post,GSE206325,Post,,EXCLUDE,,,,GSE206325,,EXCLUDE
+GSE202642_2a-0706_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1a-0618_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1a-0629_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1a-0706_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1a-0707_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1a-0727_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1a-0831_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_1b-0618_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_2b-0618_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_X-1b_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE202642_B-2b_EXCLUDE,GSE202642,EXCLUDE,,EXCLUDE,HCC,,untreated,GSE202642,,EXCLUDE
+GSE168844_P1_Pre,GSE168844,Pre,PR,PR,NSCLC,pembrolizumab,anti-PD1,GSE168844,,PR
+GSE168844_P2_Pre,GSE168844,Pre,PR,PR,NSCLC,pembrolizumab,anti-PD1,GSE168844,,PR
+GSE168844_P3_Pre,GSE168844,Pre,SD,SD,NSCLC,pembrolizumab,anti-PD1,GSE168844,,SD
+GSE168844_P4_Pre,GSE168844,Pre,SD,SD,NSCLC,pembrolizumab,anti-PD1,GSE168844,,SD
+GSE168844_P5_Pre,GSE168844,Pre,PD,PD,NSCLC,pembrolizumab,anti-PD1,GSE168844,,PD
+GSE168844_P6_Pre,GSE168844,Pre,PD,PD,NSCLC,pembrolizumab,anti-PD1,GSE168844,,PD
+GSE168844_P7_pre_Pre,GSE168844,Pre,PR,PR,NSCLC,pembrolizumab,anti-PD1,GSE168844,,PR
+GSE168844_P7_post_Pre,GSE168844,Pre,PR,PR,NSCLC,pembrolizumab,anti-PD1,GSE168844,,PR
+GSE176021_MD01-005_tumor_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD043-006_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_NY016-025_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD01-019_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD01-004_LN_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD01-005_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD043-011_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_NY016-014_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD043-011_mettumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD01-019_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD043-003_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_NY016-015_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD043-011_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_NY016-007_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD043-011_LN_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD01-010_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD01-005_LN_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_NY016-022_tumor_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_NY016-015_tumor_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD01-010_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD043-008_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_NY016-007_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD043-003_normal_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_NY016-016_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD043-008_tumor_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_NY016-022_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD01-004_tumor_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_NY016-025_normal_Post,GSE176021,Post,MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,MPR
+GSE176021_MD01-024_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_MD043-006_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+GSE176021_NY016-021_tumor_Post,GSE176021,Post,non-MPR,EXCLUDE,NSCLC,nivolumab,anti-PD1,GSE176021,,non-MPR
+S02_P01_LCP21_Pre,S02,Pre,,EXCLUDE,HCC,resection,untreated,GSE125449,,EXCLUDE
+S07_P02_LCP28_Pre,S07,Pre,,EXCLUDE,HCC,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S08_P03_LCP26_EXCLUDE,S08,EXCLUDE,,EXCLUDE,iCCA,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S09_P04_LCP25_Pre,S09,Pre,,EXCLUDE,iCCA,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S10_P05_LCP23_Pre,S10,Pre,,EXCLUDE,HCC,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S11_P06_LCP29_EXCLUDE,S11,EXCLUDE,,EXCLUDE,iCCA,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S12_P07_LCP30_Pre,S12,Pre,,EXCLUDE,HCC,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S15_P09_LCP38_Pre,S15,Pre,,EXCLUDE,HCC,resection,untreated,GSE125449,,EXCLUDE
+S16_P10_LCP18_Post,S16,Post,,EXCLUDE,HCC,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S19_P11_LCP39_Pre,S19,Pre,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE125449,,EXCLUDE
+S20_P12_LCP35_EXCLUDE,S20,EXCLUDE,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE125449,,EXCLUDE
+S21_P13_LCP37_EXCLUDE,S21,EXCLUDE,,EXCLUDE,HCC,,,GSE125449,,EXCLUDE
+S300_P02_LCP60_Pre,S300,Pre,,EXCLUDE,iCCA,resection,untreated,GSE125449,,EXCLUDE
+S305_P06_LCP56_Pre,S305,Pre,,EXCLUDE,iCCA,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S351_P10_LCP34_Pre,S351,Pre,,EXCLUDE,HCC,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S355_P13_LCP42_EXCLUDE,S355,EXCLUDE,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE125449,,EXCLUDE
+S358_P16_LCP46_EXCLUDE,S358,EXCLUDE,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE125449,,EXCLUDE
+S364_P21_LCP65_Pre,S364,Pre,,EXCLUDE,HCC,durvalumab+tremelimumab,anti-PD1+anti-CTLA4,GSE125449,,EXCLUDE
+S365_P22_LCP66_Pre,S365,Pre,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE125449,,EXCLUDE
+GSE236581_CRC01-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-T1-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-T2-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-N-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-T-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-N-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-T-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC02-N-I_Pre,GSE236581,Pre,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC02-T-I_Pre,GSE236581,Pre,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC02-N-II_Post,GSE236581,Post,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC02-T-II_Post,GSE236581,Post,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC03-N-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC03-T-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC03-T-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC03-N-III_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC03-T-III_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC04-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-N-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-T-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-N-III_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-T-III_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC05-T-I_Pre,GSE236581,Pre,PR,PR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC08-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-TN-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-T-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-N-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC05-N-II_Post,GSE236581,Post,PR,PR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC05-B-II_Post,GSE236581,Post,PR,PR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC05-T-II_Post,GSE236581,Post,PR,PR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC09-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,CR
+GSE236581_CRC09-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,CR
+GSE236581_CRC11-N-I_Pre,GSE236581,Pre,CR,CR,Duodenal carcinoma,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC11-T-I_Pre,GSE236581,Pre,CR,CR,Duodenal carcinoma,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC12-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC12-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC14-N-I_Pre,GSE236581,Pre,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC14-T-I_Pre,GSE236581,Pre,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC08-N-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-T-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC12-T-II_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-T-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-N-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC09-T-II_Post,GSE236581,Post,CR,CR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,CR
+GSE236581_CRC09-N-II_Post,GSE236581,Post,CR,CR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,CR
+GSE236581_CRC11-T-II_Post,GSE236581,Post,CR,CR,Duodenal carcinoma,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC11-N-II_Post,GSE236581,Post,CR,CR,Duodenal carcinoma,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC14-T-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC14-N-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC14-N-III_Post,GSE236581,Post,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC14-T-III_Post,GSE236581,Post,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC15-N-I_Pre,GSE236581,Pre,PR,PR,CRC,Camrelizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC15-T-I_Pre,GSE236581,Pre,PR,PR,CRC,Camrelizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC15-B-I_Pre,GSE236581,Pre,PR,PR,CRC,Camrelizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC16-N-I_Pre,GSE236581,Pre,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC16-T-I_Pre,GSE236581,Pre,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC17-N-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC17-T-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC17-N-II_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC17-T-II_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC17-B-II_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC15-T-II_Post,GSE236581,Post,PR,PR,CRC,Camrelizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC15-N-II_Post,GSE236581,Post,PR,PR,CRC,Camrelizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC18-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC18-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC16-B-II_Post,GSE236581,Post,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC16-N-II_Post,GSE236581,Post,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC19-N-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC19-T-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC19-T-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC19-N-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC20-N-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC20-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC20-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC20-T-III_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC20-N-III_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC21-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC21-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC22-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-T-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC24-T-I_Pre,GSE236581,Pre,PR,PR,Duodenal carcinoma,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC24-N-I_Pre,GSE236581,Pre,PR,PR,Duodenal carcinoma,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC25-T-I_Pre,GSE236581,Pre,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC25-N-I_Pre,GSE236581,Pre,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC26-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC26-N-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC26-T-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC18-N-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC18-T-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-N-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-T-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC18-N-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC18-T-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-LN-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-N-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-T-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC19-N-III_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC19-T-III_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC25-N-II_Post,GSE236581,Post,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC25-T-II_Post,GSE236581,Post,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC24-N-II_Post,GSE236581,Post,PR,PR,Duodenal carcinoma,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC24-T-II_Post,GSE236581,Post,PR,PR,Duodenal carcinoma,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC23-N-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-T-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC26-N-II_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC21-N-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC21-B-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC21-T-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC23-N-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-T-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC16-LN-II_Post,GSE236581,Post,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC20-T-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-B-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC26-T-II_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-B-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC01-B-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC02-B-I_Pre,GSE236581,Pre,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC02-B-II_Post,GSE236581,Post,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC03-B-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC03-B-III_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab + CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC04-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC04-B-III_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC05-B-I_Pre,GSE236581,Pre,PR,PR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC08-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC09-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,CR
+GSE236581_CRC11-B-I_Pre,GSE236581,Pre,CR,CR,Duodenal carcinoma,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC12-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC14-B-I_Pre,GSE236581,Pre,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC08-B-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC12-B-II_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC08-B-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC09-B-II_Post,GSE236581,Post,CR,CR,CRC,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,CR
+GSE236581_CRC14-B-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC14-B-III_Post,GSE236581,Post,PR,PR,CRC,Sintilimab + CapeOx,,GSE236581,,PR
+GSE236581_CRC16-B-I_Pre,GSE236581,Pre,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC17-B-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC15-B-II_Post,GSE236581,Post,PR,PR,CRC,Camrelizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC18-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC16-T-II_Post,GSE236581,Post,SD,SD,CRC,Sintilimab,anti-PD1,GSE236581,,SD
+GSE236581_CRC19-B-I_Pre,GSE236581,Pre,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC19-B-II_EXCLUDE,GSE236581,EXCLUDE,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC20-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC20-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC20-B-III_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC21-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC21-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Sintilimab ,,GSE236581,,CR
+GSE236581_CRC22-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC24-B-I_Pre,GSE236581,Pre,PR,PR,Duodenal carcinoma,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC25-B-I_Pre,GSE236581,Pre,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC18-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-B-II_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC19-B-III_Post,GSE236581,Post,PR,PR,CRC,Pembrolizumab,anti-PD1,GSE236581,,PR
+GSE236581_CRC25-B-II_Post,GSE236581,Post,SD,SD,CRC,Pembrolizumab,anti-PD1,GSE236581,,SD
+GSE236581_CRC24-B-II_Post,GSE236581,Post,PR,PR,Duodenal carcinoma,Sintilimab+ CapeOx,anti-PD1+Chemotherapy,GSE236581,,PR
+GSE236581_CRC23-B-III_EXCLUDE,GSE236581,EXCLUDE,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC26-B-II_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE236581_CRC22-B-I_Pre,GSE236581,Pre,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC18-B-III_Post,GSE236581,Post,CR,CR,CRC,Sintilimab,anti-PD1,GSE236581,,CR
+GSE236581_CRC23-B-IV_Post,GSE236581,Post,CR,CR,CRC,Pembrolizumab,anti-PD1,GSE236581,,CR
+GSE162115_G1I_EXCLUDE,GSE162115,EXCLUDE,,EXCLUDE,GIST,,untreated,GSE162115,,EXCLUDE
+GSE162115_G1P_EXCLUDE,GSE162115,EXCLUDE,,EXCLUDE,GIST,,untreated,GSE162115,,EXCLUDE
+GSE162115_G2I_EXCLUDE,GSE162115,EXCLUDE,,EXCLUDE,GIST,,untreated,GSE162115,,EXCLUDE
+GSE162115_G2P_EXCLUDE,GSE162115,EXCLUDE,,EXCLUDE,GIST,,untreated,GSE162115,,EXCLUDE
+GSE246613_immune_h01A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h01C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h02A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h02B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h02C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h03A1_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h03A2_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h03B1_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h03B2_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h03C1_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h03C2_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h04A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h04B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h04C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h05A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h05B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h05C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h06A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h06B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h06C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h07A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h07B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h07C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h09A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h09B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h09C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h10A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h10B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h10C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h11A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h11B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h11C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h12A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h12B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h12C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h15A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h15B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h15C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h16A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h16B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h16C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h17A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h17B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h17C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h18A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h18B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h18C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h19A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h19B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h19C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h20A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h20B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h20C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h23A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h23B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h23C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h26A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h26B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h26C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h30A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h30B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h30C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h39A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h39B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h39C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h42A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h42B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h42C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h43A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h43B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h43C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h45A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h45B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h45C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h46A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h46B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h46C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h47A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h47B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h47C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h48A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h48B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h48C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h52A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h52B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h52C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h53A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h53B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h53C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h56A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h56B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h56C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h57B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h57C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h63A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h63B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h63C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE246613_immune_h64A_P_Pre,GSE246613,Pre,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h64B_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab,anti-PD1,GSE246613,,non-pCR
+GSE246613_immune_h64C_P_Post,GSE246613,Post,non-pCR,EXCLUDE,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,non-pCR
+GSE246613_immune_h66A_P_Pre,GSE246613,Pre,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h66B_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab,anti-PD1,GSE246613,,CR
+GSE246613_immune_h66C_P_Post,GSE246613,Post,pCR,CR,TNBC,pembrolizumab+RT,anti-PD1+RT,GSE246613,,CR
+GSE166181_R T0-Mela10 rep2_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T0-Mela10 rep3_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T0-Mela10 rep4_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_NR T0-Mela11 rep1_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T0-Mela11 rep2_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T0-Mela11 rep3_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T0-Mela11 rep4_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_R T0-Mela12 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela12 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela12 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela12 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela13 rep3_Pre,GSE166181,Pre,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T0-Mela13 rep4_Pre,GSE166181,Pre,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T0-Mela16 rep2_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T0-Mela16 rep3_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T0-Mela16 rep4_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T0-Mela17 rep1_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T0-Mela17 rep3_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T0-Mela17 rep4_Pre,GSE166181,Pre,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_R T0-Mela20 rep1_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T0-Mela20 rep2_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T0-Mela20 rep3_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T0-Mela20 rep4_Pre,GSE166181,Pre,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_NR T0-Mela21 rep1_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T0-Mela21 rep2_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T0-Mela21 rep3_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T0-Mela21 rep4_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T0-Mela23 rep1_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T0-Mela23 rep2_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T0-Mela23 rep3_Pre,GSE166181,Pre,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T0-Mela24 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela24 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T0-Mela25 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela25 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela25 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela25 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T0-Mela26 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela26 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela26 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T0-Mela27 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela27 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela27 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela27 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T0-Mela28 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela28 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela28 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela29 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela29 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela29 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela29 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T0-Mela3 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela3 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela3 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela30 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela30 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela31 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela31 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela31 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela31 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela5 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela5 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T0-Mela5 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T0-Mela7 rep1_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela7 rep2_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela7 rep3_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T0-Mela7 rep4_Pre,GSE166181,Pre,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela10 rep1_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_NR T1-Mela11 rep1_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T1-Mela11 rep2_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T1-Mela11 rep3_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T1-Mela11 rep4_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_R T1-Mela12 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela12 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela12 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela12 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela13 rep1_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T1-Mela13 rep2_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T1-Mela13 rep3_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T1-Mela13 rep4_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T1-Mela16 rep1_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T1-Mela16 rep2_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T1-Mela16 rep3_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T1-Mela16 rep4_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T1-Mela17 rep1_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T1-Mela17 rep2_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T1-Mela17 rep3_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T1-Mela17 rep4_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_R T1-Mela20 rep1_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T1-Mela20 rep2_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T1-Mela20 rep3_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T1-Mela20 rep4_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T1-Mela23 rep1_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T1-Mela24 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela24 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela24 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela24 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T1-Mela25 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela25 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela25 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela25 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T1-Mela26 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela26 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T1-Mela27 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela27 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T1-Mela28 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela28 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela28 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela28 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela29 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela29 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela29 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela29 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T1-Mela3 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela3 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela3 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela3 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela30 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela30 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela31 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela31 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela31 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela31 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela5 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T1-Mela5 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T1-Mela7 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela7 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela7 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T1-Mela7 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela10 rep1_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T2-Mela10 rep2_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T2-Mela10 rep3_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T2-Mela10 rep4_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_NR T2-Mela11 rep1_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T2-Mela11 rep2_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T2-Mela11 rep3_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T2-Mela11 rep4_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_R T2-Mela13 rep1_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T2-Mela13 rep2_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T2-Mela13 rep4_Post,GSE166181,Post,CR,CR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,CR
+GSE166181_R T2-Mela16 rep1_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T2-Mela16 rep2_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T2-Mela16 rep3_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T2-Mela17 rep1_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T2-Mela17 rep2_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T2-Mela17 rep3_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_NR T2-Mela17 rep4_Post,GSE166181,Post,PD,PD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PD
+GSE166181_R T2-Mela20 rep1_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T2-Mela20 rep2_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T2-Mela20 rep3_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_R T2-Mela20 rep4_Post,GSE166181,Post,PR,PR,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,PR
+GSE166181_NR T2-Mela21 rep1_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T2-Mela21 rep4_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T2-Mela23 rep2_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T2-Mela23 rep3_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_R T2-Mela23 rep4_Post,GSE166181,Post,SD,SD,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,SD
+GSE166181_NR T2-Mela25 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela25 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T2-Mela26 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela26 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela28 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela28 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela28 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela29 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela29 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela29 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela29 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_NR T2-Mela3 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela3 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela30 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela30 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela30 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela30 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela31 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela31 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela31 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela31 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela5 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela5 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_NR T2-Mela5 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,NR
+GSE166181_R T2-Mela7 rep1_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela7 rep2_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela7 rep3_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+GSE166181_R T2-Mela7 rep4_Post,GSE166181,Post,unknown,EXCLUDE,SKCM,pembrolizumab/nivolumab,anti-PD1,GSE166181,,R
+H08_Post,H08,Post,,EXCLUDE,HCC,tremelimumab,anti-CTLA4,GSE151530,,EXCLUDE
+H70_Post,H70,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+H72_Post,H72,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+H73a_Pre,H73a,Pre,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H74_Post,H74,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H73b_EXCLUDE,H73b,EXCLUDE,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H75_Post,H75,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+H49b_EXCLUDE,H49b,EXCLUDE,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H77_Post,H77,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C76_Post,C76,Post,,EXCLUDE,iCCA,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H68a_Pre,H68a,Pre,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H58c_Post,H58c,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H68b_EXCLUDE,H68b,EXCLUDE,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H54_Post,H54,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C60_Post,C60,Post,,EXCLUDE,iCCA,,,GSE151530,,EXCLUDE
+C52_Post,C52,Post,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+H55_Post,H55,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C56_Post,C56,Post,,EXCLUDE,iCCA,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H62_Post,H62,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+C26a_Pre,C26a,Pre,,EXCLUDE,iCCA,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H34b_EXCLUDE,H34b,EXCLUDE,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H34a_Pre,H34a,Pre,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H34c_Post,H34c,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H41_Post,H41,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+C42_Post,C42,Post,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+H43_Post,H43,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C46a_Pre,C46a,Pre,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+C46b_EXCLUDE,C46b,EXCLUDE,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+H49a_Pre,H49a,Pre,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H58a_Pre,H58a,Pre,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H58b_EXCLUDE,H58b,EXCLUDE,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H63_Post,H63,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H65_Post,H65,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C66_Post,C66,Post,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+H21_Post,H21,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+H28_Post,H28,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C26b_EXCLUDE,C26b,EXCLUDE,,EXCLUDE,iCCA,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C25_Post,C25,Post,,EXCLUDE,iCCA,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H23_Post,H23,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C29_Post,C29,Post,,EXCLUDE,iCCA,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H30_Post,H30,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+H38_Post,H38,Post,,EXCLUDE,HCC,,,GSE151530,,EXCLUDE
+H18_Post,H18,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+C39_Post,C39,Post,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+C35_Post,C35,Post,,EXCLUDE,iCCA,pembrolizumab,anti-PD1,GSE151530,,EXCLUDE
+H37_Post,H37,Post,,EXCLUDE,HCC,durvalumab/tremelimumab,anti-PDL1/CTLA4,GSE151530,,EXCLUDE
+skrx2fz79n_P11_N_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P11_T_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P12_N_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P12_T_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P15_N_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P15_T_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P2_N_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P2_T_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P21_N_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P21_T_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P22_N_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+skrx2fz79n_P22_T_EXCLUDE,skrx2fz79n,EXCLUDE,,EXCLUDE,HCC,,anti-PD1,skrx2fz79n,,EXCLUDE
+GSE251923_caseA_Post,GSE251923,Post,PR,PR,EC,pembrolizumab+lenvatinib,anti-PD1+chemo,GSE251923,,PR
+GSE251923_caseB_Post,GSE251923,Post,PD,PD,EC,pembrolizumab+lenvatinib,anti-PD1+chemo,GSE251923,,PD
+GSE235500_ci1452normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1452normal-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1452tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1452tumor-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1415tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1451normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1451tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1168normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1168tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1168tumor-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1168tumor-3_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1168tumor-4_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1168tumor-5_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1445normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1445tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1450normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1450tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1456tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1448normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1448normal-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1448tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1448tumor-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1453normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1453normal-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1453tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1453tumor-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1447normal-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1447normal-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1447tumor-1_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
+GSE235500_ci1447tumor-2_Pre,GSE235500,Pre,,EXCLUDE,NSCLC,,Treatment Naive,GSE235500,,EXCLUDE
